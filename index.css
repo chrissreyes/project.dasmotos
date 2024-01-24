@@ -9,7 +9,7 @@ h1  {
     font-weight: bold;
     color: khaki;
     text-align:center;
-    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*2j8n9v*_ga*NTM5Njk1MDI3NS4xNzAyNzI1MzU3*_ga_3LRZM6TM9L*MTcwMzMyMzc5OS4xMi4xLjE3MDMzMjU1ODguNTUuMC4w);}
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*2j8n9v*_ga*NTM5Njk1MDI3NS4xNzAyNzI1MzU3*_ga_3LRZM6TM9L*MTcwMzMyMzc5OS4xMi4xLjE3MDMzMjU1ODguNTUuMC4w");}
 
 h2 {
 
